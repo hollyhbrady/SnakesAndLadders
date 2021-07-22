@@ -22,7 +22,7 @@ a snake, they go down. However in Snakes and Bladdered there are also tiles whic
   <li><b>client > src > components</b> - Where all of the seperate React components reside.</li>
   <li><b>client > src > containers</b> - You'll find the game logic here.</li>
   <li><b>client > src > services</b> - Here's where the data is being fetched.</li>
-  <li><b>server > db</b> - Seed data with all our fun tasks.</li>
+  <li><b>server > db</b> - Seed data with our fun tasks.</li>
   <li><b>server > helpers</b> - All the routing for the project.</li>
 </ul>
 
@@ -55,10 +55,7 @@ a snake, they go down. However in Snakes and Bladdered there are also tiles whic
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<!-- SNEAK PEAK -->
-<h2 id="sneak-peak"> 👀 Sneak Peak</h2>
-
-<p>Here are a few screenshots from the site:</p>
+<p> 👀 Here are a few screenshots from the site:</p>
 
 <img align="justify" src="https://i.ibb.co/1b4ZRQD/Screenshot-2021-07-11-at-6-13-44-PM.png" width="1280" />
 <img align="justify" src="https://i.ibb.co/qm7rZYh/Screenshot-2021-07-11-at-6-14-18-PM.png" width="1280" />
