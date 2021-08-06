@@ -10,7 +10,7 @@
 This game is a twist on the classic Snakes & Ladders.</p>
 
 <p align="justify"> As with classic snakes and ladders, a player rolls the dice and their counter moves accordingly; if the player lands on a ladder, they go up, if they hit 
-a snake, they go down. However in Snakes and Bladdered there are also tiles which generate forfeits and tiles which give players a random amount of drinks.
+a snake, they go down. However in Snakes and Bladdered there are also tiles which generate forfeits and tiles which give players a random amount of drinks (or sips, interpret this as whatever sized mouthful of your drink you are comfortable with.)
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
