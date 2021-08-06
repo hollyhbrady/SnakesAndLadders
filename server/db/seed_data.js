@@ -46,22 +46,10 @@ db.actions.insertMany([
         "action": ", everything you say until your next drink has to be shouted"
     },
     {
-        "action": ", teaspoon of Mustard for you!"
-    },
-    {
         "action": " can't speak until their next drink"
     },
     {
         "action": ", person who rolled before you takes a drink"
-    },
-    {
-        "action": " has to perform a rain dance"
-    },
-    {
-        "action": ", draw a moustache on yourself"
-    },
-    {
-        "action": ", give your best dog impression"
     },
     {
         "action": " has to recite a poem"
@@ -70,9 +58,12 @@ db.actions.insertMany([
         "action": ", impersonate a chicken"
     },
     {
-        "action": " has to do 5 Press-Ups"
+        "action": ", trying singing Stayin Alive with your mouth open"
     },
     {
-        "action": ", trying singing Stayin Alive with your mouth open"
+        "action": " has to speak in the third person until their next drink"
+    },
+    {
+        "action": " make yourself a paper hat to wear for the rest of the game"
     },
 ])
